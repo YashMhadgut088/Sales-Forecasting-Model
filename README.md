@@ -134,13 +134,6 @@ This file contains the generated sales forecast results.
 - Build an interactive dashboard using Power BI or Streamlit
 - Deploy the forecasting model as a web application
 
-## 👨‍💻 Author
-
-**Yash Mhadgut**
-
-Bachelor of Data Science  
-University of Mumbai
-
 ### Skills Demonstrated
 
 `Python` `Pandas` `NumPy` `Data Analysis` `EDA` `Data Visualization` `Time Series Forecasting` `Prophet` `Machine Learning`
